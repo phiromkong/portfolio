@@ -141,7 +141,7 @@ export const projects = [
     description:
       " A comprehensive cinema ticket booking system that allows users to select movies and choose seats. The system also provides an admin panel for managing movie listings and schedules.",
     image:
-      "https://raw.githubusercontent.com/phiromkong/Cinema-Ticket/main/Dashboard.png?token=GHSAT0AAAAAACL27YJ6SGJN3NMAX2EFZ4NKZMECAFA",
+      "https://raw.githubusercontent.com/phiromkong/portfolio/main/public/DashboardCinema.png?token=GHSAT0AAAAAACL27YJ7O6RI7M25KAY4UP52ZMED4BA",
     tags: ["MySQL", "Laravel", "JavaScript", "PHP", "CSS"],
     category: "web app",
     github: "https://github.com/phiromkong/Cinema-Ticket.git",
