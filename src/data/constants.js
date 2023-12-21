@@ -9,7 +9,7 @@ export const Bio = {
     "I am a junior majoring in Computer Science specializing in Software Engineering at the Cambodia Academy of Digital Technology. I am an enthusiastic learner, always eager to explore new technologies and methodologies to improve my coding skills.",
   github: "https://github.com/phiromkong",
   resume:
-    "https://drive.google.com/file/d/1csJu4tYBaZvB9oDlcD5e0QL74RWPIZUV/view?usp=drive_link",
+    "https://drive.google.com/file/d/1csJu4tYBaZvB9oDlcD5e0QL74RWPIZUV/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/phirom-kong-b8a2a129a",
   twitter: "",
   insta: "https://www.instagram.com/phirom_xx/",
@@ -121,6 +121,44 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 0,
+    title: "King Typer",
+    date: "April 2023 - June 2023",
+    description:
+      "An interactive web application designed to help users improve their typing speed and accuracy. The application provides real-time feedback and tracks progress over time. Users can also provide feedback with our Rating feature and compete wiht other users with our Leaderboard feature.",
+    image:
+      "https://raw.githubusercontent.com/phiromkong/King-Typer/main/public/images/KingTyper.png",
+    tags: ["React Js", "MySQL", "Laravel", "JavaScript", "PHP", "Tailwind"],
+    category: "web app",
+    github: "https://github.com/phiromkong/King-Typer.git",
+    webapp: "",
+  },
+  {
+    id: 1,
+    title: "Cinema Ticket",
+    date: "May 2022 - June 2022",
+    description:
+      " A comprehensive cinema ticket booking system that allows users to select movies and choose seats. The system also provides an admin panel for managing movie listings and schedules.",
+    image:
+      "https://raw.githubusercontent.com/phiromkong/Cinema-Ticket/main/Dashboard.png?token=GHSAT0AAAAAACL27YJ6SGJN3NMAX2EFZ4NKZMECAFA",
+    tags: ["React Js", "MySQL", "Laravel", "JavaScript", "PHP", "Tailwind"],
+    category: "web app",
+    github: "https://github.com/phiromkong/Cinema-Ticket.git",
+    webapp: "",
+    member: [
+      {
+        name: "Kung Kuycheu",
+        img: "https://avatars.githubusercontent.com/u/50138914?v=4",
+        github: "https://github.com/KKC73",
+      },
+      {
+        name: "Neang Rothmny",
+        img: "https://avatars.githubusercontent.com/u/121273072?v=4",
+        github: "https://github.com/Rothmny",
+      },
+    ],
+  },
     
 ];
 

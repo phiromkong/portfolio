@@ -217,9 +217,6 @@ const index = ({ openModal, setOpenModal }) => {
                                         <a href={member.github} target="new" style={{textDecoration: 'none', color: 'inherit'}}>
                                             <GitHub />
                                         </a>
-                                        <a href={member.linkedin} target="new" style={{textDecoration: 'none', color: 'inherit'}}>
-                                            <LinkedIn />
-                                        </a>
                                     </Member>
                                 ))}
                             </Members>
@@ -227,7 +224,6 @@ const index = ({ openModal, setOpenModal }) => {
                     )}
                     <ButtonGroup>
                         <Button dull href={project?.github} target='new'>View Code</Button>
-                        <Button href={project?.webapp} target='new'>View Live App</Button>
                     </ButtonGroup>
                 </Wrapper>
             </Container>
