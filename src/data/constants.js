@@ -159,6 +159,26 @@ export const projects = [
       },
     ],
   },
+  {
+    id: 2,
+    title: "Automata Web",
+    date: "July 2023 - September 2023",
+    description:
+      "A web-based application for visualizing and simulating automata and formal languages. The application allows users to create their own automata, run simulations, and visualize the results in real-time. This web application is intergrated with Google Authentication, users have to signin with google before having the access to our web application features.",
+    image:
+      "https://raw.githubusercontent.com/phiromkong/portfolio/main/public/Dashboard.png?token=GHSAT0AAAAAACL27YJ7CTUCPTJCTPWA7EEMZMEDVUA",
+    tags: ["Firebase", "React JS", "JavaScript", "TypeScript"],
+    category: "web app",
+    github: "https://github.com/Re4ch-Jay/Automata-Web.git",
+    webapp: "",
+    member: [
+      {
+        name: "Phat Panhareach",
+        img: "https://avatars.githubusercontent.com/u/111555521?v=4",
+        github: "https://github.com/Re4ch-Jay",
+      },
+    ],
+  },
     
 ];
 
