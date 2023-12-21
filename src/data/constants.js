@@ -9,7 +9,7 @@ export const Bio = {
     "I am a junior majoring in Computer Science specializing in Software Engineering at the Cambodia Academy of Digital Technology. I am an enthusiastic learner, always eager to explore new technologies and methodologies to improve my coding skills.",
   github: "https://github.com/phiromkong",
   resume:
-    "https://drive.google.com/file/d/1csJu4tYBaZvB9oDlcD5e0QL74RWPIZUV/view?usp=sharing",
+    "https://drive.google.com/file/d/1JNwvyv_EKweXJaNHKPpZdbS9XsCpkeBe/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/phirom-kong-b8a2a129a",
   twitter: "",
   insta: "https://www.instagram.com/phirom_xx/",
