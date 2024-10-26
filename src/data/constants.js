@@ -57,6 +57,10 @@ export const skills = [
         name: "Laravel",
         image:"https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
       },
+      {
+        name: "Postgresql",
+        image: "https://www.postgresql.org/media/img/about/press/elephant.png",
+      },
     ],
   },
   {
@@ -188,6 +192,26 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Re4ch-Jay/Automata-Web.git",
     webapp: "",
+    member: [
+      {
+        name: "Phat Panhareach",
+        img: "https://avatars.githubusercontent.com/u/111555521?v=4",
+        github: "https://github.com/Re4ch-Jay",
+      },
+    ],
+  },
+  {
+    id: 3,
+    title: "Real Estate Platform Frontend",
+    date: "May 2024 - August 2024",
+    description:
+      "A web-based and mobile-based real estate platform comprising a website for users and agencies, and a mobile app for users and agencies to facilitate property listings, searches, and for buyers, sellers, and real estate agents. The system will support three distinct roles: Admin, User, Agency and Company.",
+    image:
+      "https://raw.githubusercontent.com/phiromkong/portfolio/main/public/Dashboard.png?token=GHSAT0AAAAAACL27YJ7CTUCPTJCTPWA7EEMZMEDVUA",
+    tags: ["Laravel", "PHP", "Mobile", "React JS", "Postgres"],
+    category: "web app",
+    github: "https://github.com/Re4ch-Jay/real-estate-backend.git",
+    webapp: "https://real-estate-frontend-one.vercel.app/",
     member: [
       {
         name: "Phat Panhareach",
