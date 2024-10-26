@@ -227,7 +227,7 @@ export const projects = [
     description:
       "A web-based CMS platform companies, and system admin to facilitates their properties, agencies, and companies within the system. The system will support two distinct roles: Admin , and Agency and Company.",
     image:
-      "https://raw.githubusercontent.com/phiromkong/portfolio/refs/heads/main/public/Screenshot%202024-10-26%20095614.png",
+      "https://raw.githubusercontent.com/phiromkong/portfolio/refs/heads/main/public/Screenshot%202024-10-26%20101054.png",
     tags: ["Laravel", "PHP", "Mobile", "React JS", "Postgres"],
     category: "web app",
     github: "https://github.com/Re4ch-Jay/real-estate-backend.git",
