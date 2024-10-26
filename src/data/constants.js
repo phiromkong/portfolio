@@ -207,7 +207,7 @@ export const projects = [
     description:
       "A web-based and mobile-based real estate platform comprising a website for users and agencies, and a mobile app for users and agencies to facilitate property listings, searches, and for buyers, sellers, and real estate agents. The system will support three distinct roles: Admin, User, Agency and Company.",
     image:
-      "https://raw.githubusercontent.com/phiromkong/portfolio/main/public/Dashboard.png?token=GHSAT0AAAAAACL27YJ7CTUCPTJCTPWA7EEMZMEDVUA",
+      "https://raw.githubusercontent.com/phiromkong/portfolio/refs/heads/main/public/Screenshot%202024-10-26%20095614.png",
     tags: ["Laravel", "PHP", "Mobile", "React JS", "Postgres"],
     category: "web app",
     github: "https://github.com/Re4ch-Jay/real-estate-backend.git",
@@ -220,7 +220,26 @@ export const projects = [
       },
     ],
   },
-    
+  {
+    id: 4,
+    title: "Real Estate Platform Backend",
+    date: "May 2024 - August 2024",
+    description:
+      "A web-based CMS platform companies, and system admin to facilitates their properties, agencies, and companies within the system. The system will support two distinct roles: Admin , and Agency and Company.",
+    image:
+      "https://raw.githubusercontent.com/phiromkong/portfolio/refs/heads/main/public/Screenshot%202024-10-26%20095614.png",
+    tags: ["Laravel", "PHP", "Mobile", "React JS", "Postgres"],
+    category: "web app",
+    github: "https://github.com/Re4ch-Jay/real-estate-backend.git",
+    webapp: "https://dev-realestate.cammob.ovh/dashboard",
+    member: [
+      {
+        name: "Phat Panhareach",
+        img: "https://avatars.githubusercontent.com/u/111555521?v=4",
+        github: "https://github.com/Re4ch-Jay",
+      },
+    ],
+  },
 ];
 
 export const TimeLineData = [
