@@ -93,14 +93,19 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    title: "Web Developer Intern",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCnKl2c0B3Y_6CTdizkHODdK5aeJHwMpBGeA&s",
+    role: "Web Developer Intern",
     company: "Green Biz Technology School",
     date: "January 2024 - April 2024",
-    description:
-      "Interned as a web developer at Green Biz Technology School under the I4D program hosted by GIZ. Worked as the sole developer to build the school's website, using React and Firebase. Integrated a CMS system to manage and control the website's content, ensuring smooth communication of the school's services to the public and the target audience.",
-    techStack: ["React", "Firebase", "CMS"],
+    desc: "Interned under the I4D program hosted by GIZ, working as the sole developer to build the school's website. Utilized React and Firebase for development and integrated a CMS system to manage content, effectively conveying the school's services to the public and target audience.",
+    skills: [
+      "React",
+      "Firebase",
+      "CMS",
+    ],
   },
 ];
+
 
 export const education = [
   {
