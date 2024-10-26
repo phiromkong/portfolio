@@ -6,7 +6,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a junior majoring in Computer Science specializing in Software Engineering at the Cambodia Academy of Digital Technology. I am an enthusiastic learner, always eager to explore new technologies and methodologies to improve my coding skills.",
+    "I am a senior majoring in Computer Science specializing in Software Engineering at the Cambodia Academy of Digital Technology. I am an enthusiastic learner, always eager to explore new technologies and methodologies to improve my coding skills.",
   github: "https://github.com/phiromkong",
   resume:
     "https://drive.google.com/file/d/1JNwvyv_EKweXJaNHKPpZdbS9XsCpkeBe/view?usp=sharing",
@@ -20,10 +20,6 @@ export const skills = [
   {
     title: "Frontend",
     skills: [
-      {
-        name: "Laravel",
-        image:"https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
-      },
       {
         name: "React Js",
         image:
@@ -57,11 +53,19 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
+      {
+        name: "Laravel",
+        image:"https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"
+      },
     ],
   },
   {
     title: "Mobile  ",
     skills: [
+      {
+        name: "Flutter",
+        image:"https://www.svgrepo.com/show/353751/flutter.svg"
+      },
     ],
   },
   {
@@ -70,7 +74,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png",
       },
       {
         name: "GitHub",
@@ -87,7 +91,15 @@ export const skills = [
 ];
 
 export const experiences = [
-
+  {
+    id: 0,
+    title: "Web Developer Intern",
+    company: "Green Biz Technology School",
+    date: "January 2024 - April 2024",
+    description:
+      "Interned as a web developer at Green Biz Technology School under the I4D program hosted by GIZ. Worked as the sole developer to build the school's website, using React and Firebase. Integrated a CMS system to manage and control the website's content, ensuring smooth communication of the school's services to the public and the target audience.",
+    techStack: ["React", "Firebase", "CMS"],
+  },
 ];
 
 export const education = [
